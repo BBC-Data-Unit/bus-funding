@@ -11,6 +11,10 @@ Sources of data are all from the Department for Transport’s bus statistics.
 ## Get the data 
 
 * Department for Transport: [Bus statistics](https://www.gov.uk/government/collections/bus-statistics)
+* CSV: [Journeys by area and year](https://github.com/BBC-Data-Unit/bus-funding/blob/master/bus.csv)
+* CSV: [Bus funding per head by local authority](https://github.com/BBC-Data-Unit/bus-funding/blob/master/busperhead.csv)
+* CSV: [Bus journeys by local authority 2010 and 2019, including change](https://github.com/BBC-Data-Unit/bus-funding/blob/master/busrisefall.csv)
+* CSV: [Bus funding by area and year](https://github.com/BBC-Data-Unit/bus-funding/blob/master/funding.csv)
 
 ## Quotes and interviews
 
